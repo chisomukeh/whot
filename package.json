@@ -1,8 +1,8 @@
 {
-  "name": "whot",
+  "name": "@chisomukeh/whot",
   "version": "1.0.0",
   "description": "a simple whot interface written in javascript",
-  "main": "src/whot.js",
+  "main": "index.js",
   "repository": {
      "type": "git",
      "url": "https://github.com/chisomukeh/whot.git"
