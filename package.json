@@ -4,8 +4,8 @@
   "description": "a simple whot interface written in javascript",
   "main": "src/whot.js",
   "repository": {
-			"type": "git",
-			"url": "https://github.com/chisomukeh/whot.git"
-		},
-		"author": "Chisom Ukeh",
+     "type": "git",
+     "url": "https://github.com/chisomukeh/whot.git"
+  },
+  "author": "Chisom Ukeh",
 }
