@@ -32,7 +32,7 @@ Whot.prototype.placeCard = function(card){
 
 //Retun a list of playable cards
 Whot.prototype.permissibleCards = function(){
-  return this.copy.filter(card => card.shape == this.callCard.shape || card.figure == this.callCard.figure);
+  return this.cardsCopy.filter(card => card.shape == this.callCard.shape || card.figure == this.callCard.figure);
 }
 
 
